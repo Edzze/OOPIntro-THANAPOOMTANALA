@@ -27,9 +27,4 @@ int main(int argc, char* argv[]) {
       cout<<"is older";
     }
 
-    
   }
-  
-  
-
-
